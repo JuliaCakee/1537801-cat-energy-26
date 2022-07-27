@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Юлия Тихонова](https://up.htmlacademy.ru/adaptive/26/user/1537801).
-* Наставник: `Неизвестно`.
+* Студент: [Юлия Тихонова](https://htmlacademy.ru/profile/id1537801).
+* Наставник: [Евгений Петров](https://htmlacademy.ru/profile/id617077).
 
 ---
 
